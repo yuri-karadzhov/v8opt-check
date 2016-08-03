@@ -1,0 +1,7 @@
+[ignore]
+.*/node_modules/.*
+.*/gulpfile*.js
+
+[options]
+esproposal.class_static_fields=enable
+esproposal.decorators=warn
